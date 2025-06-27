@@ -1,7 +1,7 @@
 import spidev
 import time
 
-# Initialize SPI
+# Initialize SPI TEST CHANGE
 spi = spidev.SpiDev()
 spi.open(0, 0)  # Open SPI bus 0, device (CS) 0
 spi.max_speed_hz = 1350000
