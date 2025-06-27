@@ -1,2 +1,5 @@
 # RoboArm1
 Robo Arm 1
+
+REQUIRED LIBRARIES
+- RPi.GPIO 
